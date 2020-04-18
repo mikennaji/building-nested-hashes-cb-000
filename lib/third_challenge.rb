@@ -18,7 +18,7 @@ def third_challenge
         #your key/value pairs here
         },
       :hero_friends => []
-   }, 
+   },
    :capulet => {
       :patriarch => {
         name: "Lord capulet",
@@ -27,7 +27,7 @@ def third_challenge
         },
       :matriarch => {
         name: "Lady Capulet",
-        age: "51"  
+        age: "51"
         #your key/value pairs here
         },
       :heroine => {
@@ -40,5 +40,5 @@ def third_challenge
    }
   }
 
-  
+
 end
